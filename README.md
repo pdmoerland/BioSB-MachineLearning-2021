@@ -1,4 +1,4 @@
-![logo](logos/BioSB_logo_full_2000x1811.jpg)
+![logo](logos/BioSB_logo_full_2000x1811.jpg|width=100)
 
 # Machine Learning for Bioinformatics & Systems Biology
 
