@@ -1,6 +1,6 @@
 # Machine Learning for Bioinformatics & Systems Biology
 
-A yearly course, part of the [https://www.biosb.nl](BioSB) Research School
+A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
 	
 *Lecturers*
    * dr. ir. Perry Moerland (Amsterdam UMC, location: Academic Medical Center)   
