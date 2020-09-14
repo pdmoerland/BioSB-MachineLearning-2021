@@ -1,3 +1,5 @@
+![logo](logos/BioSB_logo_full_2000x1811.jpg)
+
 # Machine Learning for Bioinformatics & Systems Biology
 
 A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
