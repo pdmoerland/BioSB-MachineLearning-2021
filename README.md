@@ -1,5 +1,4 @@
-<!---![logo](logos/BioSB_logo_full_2000x1811.jpg)--->
-<img src="logos/BioSB_logo_full_2000x1811.jpg" width="100" height="100">
+<img src="logos/BioSB_logo_full_2000x1811.jpg" width="140" height="140">
 
 # Machine Learning for Bioinformatics & Systems Biology
 
@@ -42,13 +41,13 @@ The course fee includes:
  
  ## Course material
 
-*All course material will be made available online <!--- [[MachineLearningMaterials][here]]--->* and includes the handouts of the slides, a lab course manual and the required data and Matlab toolboxes. 
+*All course material will be made available online* and includes the handouts of the slides, a lab course manual and the required data and Matlab toolboxes. 
 
 For the moment you are already advised to have a look at the following documents:
    * To prepare for the course: a [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
    * The lab courses will make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to try to get a hold of a copy of Matlab (your university may have a campus license) before the course and have a look at the Appendices of the lab course [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
 
-During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.
+<!---During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.--->
 
 
 
