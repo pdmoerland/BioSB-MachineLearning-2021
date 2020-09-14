@@ -1,4 +1,5 @@
-![logo](logos/BioSB_logo_full_2000x1811.jpg){:height="25%" width="25%"}
+<!---![logo](logos/BioSB_logo_full_2000x1811.jpg)--->
+<img src="logos/BioSB_logo_full_2000x1811.jpg" width="100" height="100">
 
 # Machine Learning for Bioinformatics & Systems Biology
 
