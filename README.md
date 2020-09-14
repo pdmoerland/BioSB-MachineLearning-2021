@@ -28,7 +28,7 @@ In this one-week course, the foundations of machine learning will be laid out an
 
 ## Registration
 
-You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/archive-courses/machine-learning-for-bioinformatics-systems-biology). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2020 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to: education@biosb.nl. If you are interested in the 2021 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
+You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/archive-courses/machine-learning-for-bioinformatics-and-systems-biology-2020/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2020 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2021 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
 
 The course fee includes:
 
@@ -39,11 +39,13 @@ The course fee includes:
  
  ## Course material
 
-*All course material is available [[MachineLearningMaterials][here]]* and includes the handouts of the slides, a lab course manual and the required data and Matlab toolboxes. 
+*All course material will be made available online <!--- [[MachineLearningMaterials][here]]--->* and includes the handouts of the slides, a lab course manual and the required data and Matlab toolboxes. 
 
 For the moment you are already advised to have a look at the following documents:
-   * To prepare for the course: a [[%BI%/Self-evaluation.pdf][self-evaluation test]] (PDF, 90 Kb) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [[%BI%/Primers.zip][primers]] (ZIP/PDF, 4.9 Mb) on these topics.
-   * The lab courses will make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to try to get a hold of a copy of Matlab (your university may have a campus license) before the course and have a look at the Appendices of the lab course [[%BI%/Manual.pdf][manual]]. An extensive Matlab [[%BI%/Matlab.pdf][primer]] is also available. During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.
+   * To prepare for the course: a [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
+   * The lab courses will make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to try to get a hold of a copy of Matlab (your university may have a campus license) before the course and have a look at the Appendices of the lab course [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
+
+During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.
 
 
 
