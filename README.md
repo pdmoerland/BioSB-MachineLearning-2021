@@ -63,9 +63,9 @@ The course will run *October 5-9 2020*. Preparation material on statistics and l
 
 *Note that the course material is still going to change before and during ;-) the course week.*
 
-*Monday* (October 5) -	[Introduction](Day1/Day1.pdf)
-*Lecturer* 	Marcel Reinders %BR%
-*Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification. %BR%
+*Monday* (October 5) -	[Introduction](Day1/Day1.pdf)  
+*Lecturer* 	Marcel Reinders  
+*Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification.  
 
 *Tuesday* (October 6) -	*[Classifiers](Day2/Day2.pdf)* 
 *Lecturer* 	Perry Moerland %BR%
