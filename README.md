@@ -71,7 +71,7 @@ The course will run *October 5-9 2020*. Preparation material on statistics and l
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests.  
 
-*Wednesday* (October 7) - *[Feature selection and extraction](Day3/Day3.pdf)*
+*Wednesday* (October 7) - *[Feature selection and extraction](Day3/Day3.pdf)*  
 *Lecturer* 	Lodewyk Wessels  
 *Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS.  
 
