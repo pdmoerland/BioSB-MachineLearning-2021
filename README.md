@@ -67,21 +67,21 @@ The course will run *October 5-9 2020*. Preparation material on statistics and l
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification.  
 
-*Tuesday* (October 6) -	*[Classifiers](Day2/Day2.pdf)* 
-*Lecturer* 	Perry Moerland %BR%
-*Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests. %BR%
+*Tuesday* (October 6) -	*[Classifiers](Day2/Day2.pdf)*   
+*Lecturer* 	Perry Moerland  
+*Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests.  
 
-*Wednesday* (October 7) - *[[%BI%/Day3.pdf][Feature selection and extraction]]* %BR%
-*Lecturer* 	Lodewyk Wessels %BR%
-*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS. %BR%
+*Wednesday* (October 7) - *[Feature selection and extraction](Day3/Day3.pdf)*
+*Lecturer* 	Lodewyk Wessels  
+*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS.  
 
-*Thursday* (October 8) -	*[[%BI%/Day4.pdf][Clustering and HMMs]]* %BR%
-*Lecturer* 	Perry Moerland %BR%
-*Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models. %BR%
+*Thursday* (October 8) -	*[Clustering and HMMs](Day4/Day4.pdf)*  
+*Lecturer* 	Perry Moerland  
+*Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models.  
 
-*Friday*  (October 9) -	*[[%BI%/Day5.pdf][Selected advanced topics]]* %BR%
-*Lecturer* 	Marcel Reinders %BR%
-*Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning. %BR%
+*Friday*  (October 9) -	*[Selected advanced topics](Day5/Day5.pdf)*  
+*Lecturer* 	Marcel Reinders  
+*Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning.  
 
 For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
 
