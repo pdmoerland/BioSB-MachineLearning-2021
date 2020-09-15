@@ -20,7 +20,7 @@ After having followed this course, the student has a good understanding of a wid
 
 ## Target audience
 
-The course is aimed at !PhD students with a background in bioinformatics, systems biology, computer science or a related field, and life sciences. Participants from the private sector are also welcome. A working knowledge of basic statistics and linear algebra is assumed. Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background.
+The course is aimed at PhD students with a background in bioinformatics, systems biology, computer science or a related field, and life sciences. Participants from the private sector are also welcome. A working knowledge of basic statistics and linear algebra is assumed. Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background.
 
 ## Description
 
@@ -61,7 +61,6 @@ The course will run *October 5-9 2020*. Preparation material on statistics and l
    * 12.00 - 13.00 	Lunch break 
    * 13.00 - 17.00 	Lecture and/or computer lab 
 
-## Course material
 *Note that the course material is still going to change before and during ;-) the course week.*
 
 *Monday* (October 5) -	[Introduction](Day1/Day1.pdf)
