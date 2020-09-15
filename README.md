@@ -49,5 +49,44 @@ For the moment you are already advised to have a look at the following documents
 
 <!---During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.--->
 
+## Examination
+
+Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to p.d.moerland@amsterdamumc.nl no later than three weeks after the course has finished (October 30, 2020). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
+
+## Schedule (2020 edition)
+
+The course will run *October 5-9 2020*. Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in. Each course day will have the following schedule:
+
+   * 9.00 - 12.00 	Lecture and/or computer lab
+   * 12.00 - 13.00 	Lunch break 
+   * 13.00 - 17.00 	Lecture and/or computer lab 
+
+## Course material
+*Note that the course material is still going to change before and during ;-) the course week.*
+
+*Monday* (October 5) -	[Introduction](Day1/Day1.pdf)
+*Lecturer* 	Marcel Reinders %BR%
+*Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification. %BR%
+
+*Tuesday* (October 6) -	*[Classifiers](Day2/Day2.pdf)* 
+*Lecturer* 	Perry Moerland %BR%
+*Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests. %BR%
+
+*Wednesday* (October 7) - *[[%BI%/Day3.pdf][Feature selection and extraction]]* %BR%
+*Lecturer* 	Lodewyk Wessels %BR%
+*Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS. %BR%
+
+*Thursday* (October 8) -	*[[%BI%/Day4.pdf][Clustering and HMMs]]* %BR%
+*Lecturer* 	Perry Moerland %BR%
+*Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models. %BR%
+
+*Friday*  (October 9) -	*[[%BI%/Day5.pdf][Selected advanced topics]]* %BR%
+*Lecturer* 	Marcel Reinders %BR%
+*Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning. %BR%
+
+For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
+
+
+
 
 
