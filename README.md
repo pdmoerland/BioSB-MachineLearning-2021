@@ -1,5 +1,17 @@
 <img src="logos/BioSB_logo_full_2000x1811.jpg" width="140" height="140">
 
+- [Machine Learning for Bioinformatics & Systems Biology](#machine-learning-for-bioinformatics---systems-biology)
+  * [Learning objectives](#learning-objectives)
+  * [Target audience](#target-audience)
+  * [Description](#description)
+  * [Registration](#registration)
+  * [Course material](#course-material)
+  * [Examination](#examination)
+  * [Schedule (2020 edition)](#schedule--2020-edition-)
+  * [Pointers](#pointers)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 # Machine Learning for Bioinformatics & Systems Biology
 
 A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
