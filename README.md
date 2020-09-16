@@ -7,7 +7,7 @@
   * [Registration](#registration)
   * [Course material](#course-material)
   * [Examination](#examination)
-  * [Schedule (2020 edition)](#schedule-(2020-edition))
+  * [Schedule (2020 edition)](#schedule-(2020-edition-))
   * [Pointers](#pointers)
 
 
