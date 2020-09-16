@@ -96,10 +96,10 @@ Additional tools (not required for the course, but perhaps interesting):
       * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
       * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
       * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
-      * [glmnet]([https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
+      * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
       * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
-   * [WEKA]([https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
-   * [Shogun]([https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
+   * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
+   * [Shogun](https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
  <!---      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
       * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
