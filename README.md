@@ -88,9 +88,9 @@ For more information about the course programme, please contact [Perry Moerland]
 ## Pointers
 Additional tools (not required for the course, but perhaps interesting):
    * [scikit-learn](https://scikit-learn.org/stable/) is a free software machine learning library for the Python programming language
-   * R is very popular for solving data analysis problems. [Here](https://www.math.umaine.edu/~hiebeler/comp/matlabR.html) is a short reference that provides a mapping between Matlab and R commands.
+   * R is very popular for solving data analysis problems. [Here](https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf) is a short reference that provides a mapping between Matlab and R commands.
    * R packages relevant for some of the topics treated in the course are (spread out over a whole range of packages, list is far from complete):
-      * First have a look at [mlr](https://github.com/mlr-org/mlr) which is _the_ machine learning package in R.
+      * First have a look at [mlr](https://mlr3.mlr-org.com/) which is _the_ machine learning package in R.
       * Then have a look at [caret](https://topepo.github.io/caret/index.html)  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
       * [e0171](https://cran.r-project.org/web/packages/e1071/index.html): support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
       * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
