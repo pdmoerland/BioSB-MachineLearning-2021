@@ -7,7 +7,7 @@
   * [Registration](#registration)
   * [Course material](#course-material)
   * [Examination](#examination)
-  * [Schedule (2020 edition)](#schedule-(2020-edition-))
+  * [Schedule](#schedule)
   * [Pointers](#pointers)
 
 
@@ -64,7 +64,7 @@ For the moment you are already advised to have a look at the following documents
 
 Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to p.d.moerland@amsterdamumc.nl no later than three weeks after the course has finished (October 30, 2020). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
 
-## Schedule (2020 edition)
+## Schedule
 
 The course will run *October 5-9 2020*. Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in. Each course day will have the following schedule:
 
