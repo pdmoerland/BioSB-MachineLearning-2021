@@ -86,21 +86,20 @@ The course will run *October 5-9 2020*. Preparation material on statistics and l
 For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
 
 ## Pointers
-
-   * Additional tools (not required for the course, but perhaps interesting):
-      * [scikit-learn]([[https://scikit-learn.org/stable/) is a free software machine learning library for the Python programming language
-      * R is very popular for solving data analysis problems. [Here](https://www.math.umaine.edu/~hiebeler/comp/matlabR.html) is a short reference that provides a mapping between Matlab and R commands.
-      * R packages relevant for some of the topics treated in the course are (spread out over a whole range of packages, list is far from complete):
-         * First have a look at [mlr](https://github.com/mlr-org/mlr) which is _the_ machine learning package in R.
-         * Then have a look at [caret](https://topepo.github.io/caret/index.html)  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
-         * [e0171](https://cran.r-project.org/web/packages/e1071/index.html): support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
-         * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
-         * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
-         * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
-         * [glmnet]([https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
-         * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
-      * [WEKA]([https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
-      * [Shogun]([https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
+Additional tools (not required for the course, but perhaps interesting):
+   * [scikit-learn](https://scikit-learn.org/stable/) is a free software machine learning library for the Python programming language
+   * R is very popular for solving data analysis problems. [Here](https://www.math.umaine.edu/~hiebeler/comp/matlabR.html) is a short reference that provides a mapping between Matlab and R commands.
+   * R packages relevant for some of the topics treated in the course are (spread out over a whole range of packages, list is far from complete):
+      * First have a look at [mlr](https://github.com/mlr-org/mlr) which is _the_ machine learning package in R.
+      * Then have a look at [caret](https://topepo.github.io/caret/index.html)  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
+      * [e0171](https://cran.r-project.org/web/packages/e1071/index.html): support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
+      * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
+      * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
+      * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
+      * [glmnet]([https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
+      * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
+   * [WEKA]([https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
+   * [Shogun]([https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
  <!---      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
       * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
