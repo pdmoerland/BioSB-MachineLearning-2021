@@ -88,22 +88,21 @@ For more information about the course programme, please contact [Perry Moerland]
 ## Pointers
 
    * Additional tools (not required for the course, but perhaps interesting):
-      * [[https://scikit-learn.org/stable/][scikit-learn]] is a free software machine learning library for the Python programming language
-      * R is very popular for solving data analysis problems. [[https://www.math.umaine.edu/~hiebeler/comp/matlabR.html][Here]] is a short reference that provides a mapping between Matlab and R commands.
+      * [scikit-learn]([[https://scikit-learn.org/stable/) is a free software machine learning library for the Python programming language
+      * R is very popular for solving data analysis problems. [Here](https://www.math.umaine.edu/~hiebeler/comp/matlabR.html) is a short reference that provides a mapping between Matlab and R commands.
       * R packages relevant for some of the topics treated in the course are (spread out over a whole range of packages, list is far from complete):
-         * First have a look at [[https://github.com/mlr-org/mlr][mlr]] which is _the_ machine learning package in R.
-         * Then have a look at [[https://topepo.github.io/caret/index.html][caret]]  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
-         * [[https://cran.r-project.org/web/packages/e1071/index.html][e0171]]: support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
-         * [[https://www.bioconductor.org/packages/release/bioc/html/MCRestimate.html][MCResimate]]: flexible framework for feature selection and cross-validation providing a wrapper for several classifiers (PAM, SVM, random forests, ...). Easily extended with classifiers available in other packages
-         * [[https://cran.r-project.org/web/packages/MASS/index.html][MASS]]: dla, qda
-         * [[https://cran.r-project.org/web/packages/rpart/index.html][rpart]]: decision trees
-         * [[https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html][stats]] (installed by default): hierarchical clustering, kmeans
-         * [[https://cran.r-project.org/web/packages/glmnet/index.html][glmnet]]: lasso, elastic net
-         * See [[https://cran.r-project.org/web/views/MachineLearning.html][CRAN Task View: Machine Learning & Statistical Learning]] and [[https://cran.r-project.org/web/views/Cluster.html][CRAN Task View: Cluster Analysis & Finite Mixture Models]] for pointers to other packages
-      * [[https://www.cs.waikato.ac.nz/ml/weka/][WEKA]], a Java-based collection of machine learning algorithms for data mining
-      * [[https://www.raetschlab.org/suppl/shogun/][Shogun]], a Matlab toolbox focusing on large scale kernel methods
-      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
-      * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background
+         * First have a look at [mlr](https://github.com/mlr-org/mlr) which is _the_ machine learning package in R.
+         * Then have a look at [caret](https://topepo.github.io/caret/index.html)  which also provides a nice set of functions that attempt to streamline the process for creating predictive models. 
+         * [e0171](https://cran.r-project.org/web/packages/e1071/index.html): support vector machines and a flexible framework for cross-validation/bootstrapping using the _tune_ function
+         * [MASS](https://cran.r-project.org/web/packages/MASS/index.html): dla, qda
+         * [rpart](https://cran.r-project.org/web/packages/rpart/index.html): decision trees
+         * [stats](https://stat.ethz.ch/R-manual/R-patched/library/stats/html/00Index.html) (installed by default): hierarchical clustering, kmeans
+         * [glmnet]([https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
+         * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
+      * [WEKA]([https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
+      * [Shogun]([https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
+ <!---      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
+      * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
 Some good material for further reading:
    * G. James, D. Witten, T. Hastie and R. Tibshirani, [[https://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning with Applications in R]], also freely available on-line with R code, slides, videos etc.
@@ -115,7 +114,6 @@ Some good material for further reading:
    * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [[https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1][Classification, parameter estimation and state estimation: an engineering approach using MATLAB]], 2004. ISBN: 0470090138.
    * A.K. Jain, R.P.W. Duin and J. Mao, [[https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151][Statistical pattern recognition: a review]], IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
    * M. FernÃ¡ndez-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [[https://jmlr.org/papers/v15/delgado14a.html][Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?]], JMLR, 15(Oct):3133âˆ’3181, 2014
-</table>
 
 
 
