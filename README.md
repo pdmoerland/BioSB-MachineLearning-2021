@@ -45,16 +45,14 @@ In this one-week course, the foundations of machine learning will be laid out an
 
 You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/archive-courses/machine-learning-for-bioinformatics-and-systems-biology-2020/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2020 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2021 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
 
-The course fee includes:
-
-   * Course material: Lecture slides, a computer lab manual and software required for the computer lab (MATLAB toolboxes) will be made available online.
+The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
    <!--- * Catering: Coffee, tea, soft drinks and lunch will be provided.--->
 
  <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
  
  ## Course material
 
-*All course material is available online* and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
+All course material is available below and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
@@ -70,7 +68,7 @@ Have a look at the following documents before the start of the course:
       * the computer lab [manual](manual/Manual.pdf) (PDF);
       * the [Matlab toolboxes and datasets](website/Data and code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
-To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. A not too old version of [[https://www.mathworks.nl/][Matlab]] (R2006a or newer) is required.
+To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. If you do not have access to a campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the Deep Learning toolbox and the Statistics and Machine Learning toolbox.
     
 ## Examination
 
