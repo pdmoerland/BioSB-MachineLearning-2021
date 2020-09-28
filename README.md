@@ -48,7 +48,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
  <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
  
- ## Course material
+## Course material
 
 All course material is available below and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
 
