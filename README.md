@@ -115,7 +115,7 @@ Additional tools (not required for the course, but perhaps interesting):
       * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
 Some good material for further reading:
-   * G. James, D. Witten, T. Hastie and R. Tibshirani, [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/), also freely available on-line with R code, slides, videos etc.
+   * G. James, D. Witten, T. Hastie and R. Tibshirani, [An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/), also freely available on-line with R code, slides, videos etc.
    * R.O. Duda, P.E. Hart and D.G. Stork, [Pattern classification](https://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232058027&sr=8-1), 2nd ed., 2000. ISBN: 0471056693.
    * C. Bishop, [Pattern recognition and machine learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_bxgy_b_img_b), 2007. ISBN: 0387310738.
    * T. Hastie, R. Tibshirani and J. Friedman, [The elements of statistical learning: data mining, inference, and prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232108270&sr=8-1), 2nd ed., 2009. ISBN: 0387848576.
