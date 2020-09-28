@@ -119,11 +119,11 @@ Some good material for further reading:
    * R.O. Duda, P.E. Hart and D.G. Stork, [Pattern classification](https://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232058027&sr=8-1), 2nd ed., 2000. ISBN: 0471056693.
    * C. Bishop, [Pattern recognition and machine learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_bxgy_b_img_b), 2007. ISBN: 0387310738.
    * T. Hastie, R. Tibshirani and J. Friedman, [The elements of statistical learning: data mining, inference, and prediction](https://web.stanford.edu/~hastie/ElemStatLearn/), 2nd ed., 2009. ISBN: 0387848576.
-   * D. Barber, [Bayesian Reasoning and Machine Learning](https://www.cs.ucl.ac.uk/staff/d.barber/brml/), also freely available on-line.
+   * D. Barber, [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage), also freely available on-line.
    * A. Webb, [Statistical pattern recognition](https://www.amazon.com/Statistical-Pattern-Recognition-Andrew-Webb/dp/0470845147/ref=sr_1_1?ie=UTF8&s=books&qid=1232058254&sr=1-1), 2nd ed., 2002. ISBN: 0470845147.
    * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [Classification, parameter estimation and state estimation: an engineering approach using MATLAB](https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1), 2004. ISBN: 0470090138.
    * A.K. Jain, R.P.W. Duin and J. Mao, [Statistical pattern recognition: a review](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151), IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
-   * M. FernÃ¡ndez-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133âˆ’3181, 2014
+   * M. Fernández-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133-3181, 2014
 
 
 
