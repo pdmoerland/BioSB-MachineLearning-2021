@@ -54,17 +54,17 @@ All course material is available below and includes the handouts of the slides, 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
-   * The comouter labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
+   * The computer labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
 
 <!---During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.--->
 
    * Material used during the lectures:
-      * [Handouts](website/Handouts.zip) (ZIP/PDF) of the slides used during the course.
+      * [Handouts](website/Handouts.zip) (ZIP/PDF) of the slides used during the course;
       * Some [lecture notes on HMMs](Day4/LectureNotesHMM.pdf) (PDF) 
 
    * Material used during the computer labs:
-      * the computer lab [manual](manual/Manual.pdf) (PDF);
-      * the [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
+      * Computer lab [manual](manual/Manual.pdf) (PDF);
+      * [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
 To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the _Deep Learning_ toolbox and the _Statistics and Machine Learning_ toolbox.
     
