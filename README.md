@@ -25,6 +25,8 @@ A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
    * e-mail: p.d.moerland@amsterdamumc.nl
    * telephone: +31 20 5666945
 
+For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
+
 ## Learning objectives
 
 After having followed this course, the student has a good understanding of a wide range of machine learning techniques and is able to recognize what method is most applicable to data analysis problems (s)he encounters in bioinformatics and systems biology applications.
@@ -45,22 +47,31 @@ You can register for this course by filling out the BioSB [enrolment form](https
 
 The course fee includes:
 
-   * Course material: Lecture slides, a lab course manual and software required for the lab course (MATLAB toolboxes) will be made available online.
+   * Course material: Lecture slides, a computer lab manual and software required for the computer lab (MATLAB toolboxes) will be made available online.
    <!--- * Catering: Coffee, tea, soft drinks and lunch will be provided.--->
 
  <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
  
  ## Course material
 
-*All course material is available online* and includes the handouts of the slides, a lab course manual and the required data and Matlab toolboxes. 
+*All course material is available online* and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
 
 Have a look at the following documents before the start of the course:
-   * To prepare for the course: a [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
-   * The lab courses make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the lab course [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
+   * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
+   * The comouter labs make extensive use of Matlab. You do not need to be a fluent programmer, but if you have never worked with Matlab before it may help to have a look at the Appendices of the computer lab [manual](manual/Manual.pdf). An extensive Matlab [primer](background/Matlab.pdf) is also available. 
 
 <!---During the course Matlab and all software/data are available on the PCs in the lab, so there is no need to bring your laptop.--->
-to get a hold of a copy of Matlab (your university may have a campus license) before the course and 
 
+   * Material used during the lectures:
+      * [Handouts](website/Handouts.zip) (ZIP/PDF) of the slides used during the course.
+      * Some [lecture notes on HMMs](Day4/LectureNotesHMM.pdf) (PDF) 
+
+   * Material used during the computer labs:
+      * the computer lab [manual](manual/Manual.pdf) (PDF);
+      * the [Matlab toolboxes and datasets](website/Data and code.zip) (ZIP) used, among which PRTools is the most important toolbox.
+
+To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. A not too old version of [[https://www.mathworks.nl/][Matlab]] (R2006a or newer) is required.
+    
 ## Examination
 
 Participants requiring a certificate of successful completion (3 ECTS) should make a final assignment. The student will analyse a biological dataset (preferably one from his/her own practice) using the tools provided in the course, and write a small report (5-10 pages) on the results. If the student has no dataset available, one will be provided. The report will have to be mailed to p.d.moerland@amsterdamumc.nl no later than three weeks after the course has finished (October 30, 2020). We will strictly adhere to this deadline; if you require extension, you should contact us well in advance. The proposal will be graded "fail" or "pass", with one possible resubmission. Those who choose not to make the final assignment will receive a certificate of participation (1.5 ECTS). 
@@ -97,8 +108,6 @@ Each course day will have the following schedule:
 *Friday*  (October 9) -	*[Selected advanced topics](Day5/Day5.pdf)*  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning.  
-
-For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
 
 ## Pointers
 Additional tools (not required for the course, but perhaps interesting):
