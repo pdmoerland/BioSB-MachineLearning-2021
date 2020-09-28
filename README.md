@@ -110,20 +110,20 @@ Additional tools (not required for the course, but perhaps interesting):
       * [glmnet](https://cran.r-project.org/web/packages/glmnet/index.html): lasso, elastic net
       * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
    * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
-   * [Shogun](https://www.raetschlab.org/suppl/shogun/), a Matlab toolbox focusing on large scale kernel methods
+   * [Shogun](https://www.shogun-toolbox.org/), a machine learning library particularly suitable for large scale kernel methods
  <!---      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
       * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
 Some good material for further reading:
-   * G. James, D. Witten, T. Hastie and R. Tibshirani, [[https://www-bcf.usc.edu/~gareth/ISL/][An Introduction to Statistical Learning with Applications in R]], also freely available on-line with R code, slides, videos etc.
-   * R.O. Duda, P.E. Hart and D.G. Stork, [[https://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232058027&sr=8-1][Pattern classification]], 2nd ed., 2000. ISBN: 0471056693.
-   * C. Bishop, [[https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_bxgy_b_img_b][Pattern recognition and machine learning]], 2007. ISBN: 0387310738.
-   * T. Hastie, R. Tibshirani and J. Friedman, [[https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232108270&sr=8-1][The elements of statistical learning: data mining, inference, and prediction]], 2nd ed., 2009. ISBN: 0387848576.
-   * D. Barber, [[https://www.cs.ucl.ac.uk/staff/d.barber/brml/][Bayesian Reasoning and Machine Learning]], also freely available on-line.
-   * A. Webb, [[https://www.amazon.com/Statistical-Pattern-Recognition-Andrew-Webb/dp/0470845147/ref=sr_1_1?ie=UTF8&s=books&qid=1232058254&sr=1-1][Statistical pattern recognition]], 2nd ed., 2002. ISBN: 0470845147.
-   * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [[https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1][Classification, parameter estimation and state estimation: an engineering approach using MATLAB]], 2004. ISBN: 0470090138.
-   * A.K. Jain, R.P.W. Duin and J. Mao, [[https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151][Statistical pattern recognition: a review]], IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
-   * M. FernÃ¡ndez-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [[https://jmlr.org/papers/v15/delgado14a.html][Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?]], JMLR, 15(Oct):3133âˆ’3181, 2014
+   * G. James, D. Witten, T. Hastie and R. Tibshirani, [An Introduction to Statistical Learning with Applications in R](https://www-bcf.usc.edu/~gareth/ISL/), also freely available on-line with R code, slides, videos etc.
+   * R.O. Duda, P.E. Hart and D.G. Stork, [Pattern classification](https://www.amazon.com/Pattern-Classification-2nd-Richard-Duda/dp/0471056693/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232058027&sr=8-1), 2nd ed., 2000. ISBN: 0471056693.
+   * C. Bishop, [Pattern recognition and machine learning](https://www.amazon.com/Pattern-Recognition-Learning-Information-Statistics/dp/0387310738/ref=pd_bxgy_b_img_b), 2007. ISBN: 0387310738.
+   * T. Hastie, R. Tibshirani and J. Friedman, [The elements of statistical learning: data mining, inference, and prediction](https://www.amazon.com/Elements-Statistical-Learning-Prediction-Statistics/dp/0387848576/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1232108270&sr=8-1), 2nd ed., 2009. ISBN: 0387848576.
+   * D. Barber, [Bayesian Reasoning and Machine Learning](https://www.cs.ucl.ac.uk/staff/d.barber/brml/), also freely available on-line.
+   * A. Webb, [Statistical pattern recognition](https://www.amazon.com/Statistical-Pattern-Recognition-Andrew-Webb/dp/0470845147/ref=sr_1_1?ie=UTF8&s=books&qid=1232058254&sr=1-1), 2nd ed., 2002. ISBN: 0470845147.
+   * F. van der Heijden, R.P.W. Duin, D. de Ridder and D.M.J. Tax, [Classification, parameter estimation and state estimation: an engineering approach using MATLAB](https://www.amazon.com/Classification-Parameter-Estimation-State-Engineering/dp/0470090138/ref=sr_1_1?ie=UTF8&s=books&qid=1232058361&sr=1-1), 2004. ISBN: 0470090138.
+   * A.K. Jain, R.P.W. Duin and J. Mao, [Statistical pattern recognition: a review](https://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.123.8151), IEEE Tr. on Pattern Analysis and Machine Intelligence 22(1):4-37, 2000. 
+   * M. FernÃ¡ndez-Delgado, E. Cernadas, S. Barro, Dinani Amorim, [Do we Need Hundreds of Classifiers to Solve Real World Classification Problems?](https://jmlr.org/papers/v15/delgado14a.html), JMLR, 15(Oct):3133âˆ’3181, 2014
 
 
 
