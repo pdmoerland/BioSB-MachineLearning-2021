@@ -120,6 +120,7 @@ Additional tools (not required for the course, but perhaps interesting):
       * See [CRAN Task View: Machine Learning & Statistical Learning](https://cran.r-project.org/web/views/MachineLearning.html) and [CRAN Task View: Cluster Analysis & Finite Mixture Models](https://cran.r-project.org/web/views/Cluster.html) for pointers to other packages
    * [WEKA](https://www.cs.waikato.ac.nz/ml/weka/), a Java-based collection of machine learning algorithms for data mining
    * [Shogun](https://www.shogun-toolbox.org/), a machine learning library particularly suitable for large scale kernel methods
+   
  <!---      * [[%BI%/genlab.zip][GenLab and PRLab]] (ZIP), a GUI for microarray data analysis, clustering and classification (poorly maintained, use at your own risk!)
       * [[https://linus.nci.nih.gov/BRB-ArrayTools.html][BRB ArrayTools]], an Excel-based microarray data analysis package using R in the background --->
 
