@@ -66,9 +66,9 @@ Have a look at the following documents before the start of the course:
 
    * Material used during the computer labs:
       * the computer lab [manual](manual/Manual.pdf) (PDF);
-      * the [Matlab toolboxes and datasets](website/Data and code.zip) (ZIP) used, among which PRTools is the most important toolbox.
+      * the [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
-To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. If you do not have access to a campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the Deep Learning toolbox and the Statistics and Machine Learning toolbox.
+To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. If you do not have access to a campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the _Deep Learning_ toolbox and the _Statistics and Machine Learning_ toolbox.
     
 ## Examination
 
