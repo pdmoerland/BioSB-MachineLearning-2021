@@ -50,7 +50,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
 ## Course material
 
-All course material is available below and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
+All course materials are available below and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
