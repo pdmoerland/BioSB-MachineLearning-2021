@@ -2,6 +2,7 @@
 
 # Machine Learning for Bioinformatics & Systems Biology
 
+  * [Mails](#mails)
   * [Learning objectives](#learning-objectives)
   * [Target audience](#target-audience)
   * [Description](#description)
@@ -27,7 +28,7 @@ For more information about the course programme, please contact [Perry Moerland]
 
 ## Mails
 Apparently in some cases my mails end up in the spam folder. Therefore, I also put them here:
-   * Mail 1
+   * mail20200928.md
    * Mail 2
 
 ## Learning objectives
