@@ -28,7 +28,7 @@ For more information about the course programme, please contact [Perry Moerland]
 
 ## Mails
 Apparently in some cases my mails end up in the spam folder. Therefore, I also put them here:
-   * mail20200928.md
+   * Mail of [Monday 28 September](mail20200928.md)
    * Mail 2
 
 ## Learning objectives
