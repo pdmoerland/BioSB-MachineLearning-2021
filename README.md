@@ -25,10 +25,10 @@ A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
 
 For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
 
-## Mails sent out
+## Mails
 Apparently in some cases my mails end up in the spam folder. Therefore, I also put them here:
-  *  
-  *
+   *  
+   *
 
 ## Learning objectives
 
