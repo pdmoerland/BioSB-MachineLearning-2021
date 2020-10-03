@@ -80,14 +80,14 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 ## Schedule
 
-The course will run *October 5-9 2020*. 
+The course will run in the week of *October 5-9 2020*. 
 
 <!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in.--->
 Each course day will have the following schedule:
 
-   * 9.00 - 12.00 	Lecture and/or computer lab
-   * 12.00 - 13.00 	Lunch break 
-   * 13.00 - 17.00 	Lecture and/or computer lab 
+   * 9.00 - 12.00: 	Lecture and/or computer lab
+   * 12.00 - 13.00: 	Lunch break 
+   * 13.00 - 17.00: 	Lecture and/or computer lab 
 
 *Note that the course material is still going to change before and during ;-) the course week.*
 
