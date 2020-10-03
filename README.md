@@ -2,6 +2,7 @@
 
 # Machine Learning for Bioinformatics & Systems Biology
 
+  * [Mails](#mails)
   * [Learning objectives](#learning-objectives)
   * [Target audience](#target-audience)
   * [Description](#description)
@@ -24,6 +25,11 @@ A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
    * telephone: +31 20 5666945
 
 For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
+
+## Mails
+Apparently in some cases my mails end up in the spam folder. Therefore, I also put them here:
+   * Mail of [Monday 28 September](mail20200928.md)
+   * Mail of [Thursday 1 October](mail20201001.md)
 
 ## Learning objectives
 
@@ -50,7 +56,7 @@ The course fee includes all course material. Lecture slides, a computer lab manu
 
 ## Course material
 
-All course material is available below and includes the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
+All course materials are available below and include the handouts of the slides, a computer lab manual and the required data and Matlab toolboxes. 
 
 Have a look at the following documents before the start of the course:
    * A [self-evaluation test](background/Self-evaluation.pdf) on the prerequisite prior knowledge (probability theory and linear algebra). If you have a lot of trouble answering some of these exercises, consult the text books mentioned in the PDF, or a few [primers](background/Primers.zip) on these topics.
@@ -66,7 +72,7 @@ Have a look at the following documents before the start of the course:
       * Computer lab [manual](manual/Manual.pdf) (PDF);
       * [Matlab toolboxes and datasets](website/Data_and_code.zip) (ZIP) used, among which PRTools is the most important toolbox.
 
-To use the code and data, download the ZIP file, unpack everything in the same directory and run prstartup from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the _Deep Learning_ toolbox and the _Statistics and Machine Learning_ toolbox.
+To use the code and data, download the ZIP file, unpack everything in the same directory and run _prstartup_ from the Matlab command prompt. If you do not have access to a Matlab campus license, install the 30-day free [trial for Machine Learning](https://nl.mathworks.com/campaigns/products/trials/targeted/mal.html). When indicating toolboxes to install, you should at least select the _Deep Learning_ toolbox and the _Statistics and Machine Learning_ toolbox.
     
 ## Examination
 
@@ -74,14 +80,14 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 ## Schedule
 
-The course will run *October 5-9 2020*. 
+The course will run in the week of *October 5-9 2020*. 
 
 <!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in.--->
 Each course day will have the following schedule:
 
-   * 9.00 - 12.00 	Lecture and/or computer lab
-   * 12.00 - 13.00 	Lunch break 
-   * 13.00 - 17.00 	Lecture and/or computer lab 
+   * 9.00 - 12.00: 	Lecture and/or computer lab
+   * 12.00 - 13.00: 	Lunch break 
+   * 13.00 - 17.00: 	Lecture and/or computer lab 
 
 *Note that the course material is still going to change before and during ;-) the course week.*
 
