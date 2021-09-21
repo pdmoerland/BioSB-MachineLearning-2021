@@ -26,11 +26,6 @@ A yearly course, part of the [BioSB](https://www.biosb.nl) Research School
 
 For more information about the course programme, please contact [Perry Moerland](mailto:p.d.moerland@amsterdamumc.nl); for more information about registration or logistics, please contact [Femke Francissen](mailto:femke.francissen@biosb.nl).
 
-## Mails
-Apparently in some cases my mails end up in the spam folder. Therefore, I also put them here:
-   * Mail of [Monday 28 September](mail20200928.md)
-   * Mail of [Thursday 1 October](mail20201001.md)
-
 ## Learning objectives
 
 After having followed this course, the student has a good understanding of a wide range of machine learning techniques and is able to recognize what method is most applicable to data analysis problems (s)he encounters in bioinformatics and systems biology applications.
@@ -47,10 +42,10 @@ In this one-week course, the foundations of machine learning will be laid out an
 
 ## Registration
 
-You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/archive-courses/machine-learning-for-bioinformatics-and-systems-biology-2020/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2020 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2021 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
+You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/machine-learning-for-bioinformatics-and-systems-biology-2021/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2021 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2022 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
 
 The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
-   <!--- * Catering: Coffee, tea, soft drinks and lunch will be provided.--->
+	* Catering: Coffee, tea, soft drinks and lunch will be provided.
 
  <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
 
@@ -80,34 +75,34 @@ Participants requiring a certificate of successful completion (3 ECTS) should ma
 
 ## Schedule
 
-The course will run in the week of *October 5-9 2020*. 
+The course will run in the week of *October 11-15 2021*. 
 
 <!---Preparation material on statistics and linear algebra will be distributed before the course, to be studied by students missing the required background. After the course, 2-3 days will have to be spent on the report to be handed in.--->
 Each course day will have the following schedule:
 
-   * 9.00 - 12.00: 	Lecture and/or computer lab
+   * 9.00 - 12.00: 	Lecture
    * 12.00 - 13.00: 	Lunch break 
-   * 13.00 - 17.00: 	Lecture and/or computer lab 
+   * 13.00 - 17.00: 	Computer lab 
 
 *Note that the course material is still going to change before and during ;-) the course week.*
 
-*Monday* (October 5) -	[Introduction](Day1/Day1.pdf)  
+*Monday* (October 11) -	[Introduction](Day1/Day1.pdf)  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Introduction to machine learning: measurements, features, classification. Supervised vs. unsupervised learning, relation to regression. Bayesian framework: risk, cost; evaluation: ROCs, cross-validation. Density estimation: histograms, nearest neighbour, Parzen, Gaussian Bayesian classification.  
 
-*Tuesday* (October 6) -	*[Classifiers](Day2/Day2.pdf)*   
+*Tuesday* (October 12) - *[Classifiers](Day2/Day2.pdf)*   
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Parametric classifiers: (D)LDA, (D)QDA. Nonparametric classifiers: k-NN, Parzen. Discriminant analysis: LDA, logistic regression. Decision trees and random forests.  
 
-*Wednesday* (October 7) - *[Feature selection and extraction](Day3/Day3.pdf)*  
+*Wednesday* (October 13) - *[Feature selection and extraction](Day3/Day3.pdf)*  
 *Lecturer* 	Lodewyk Wessels  
 *Subjects* 	Feature selection: criteria, search algorithms (forward, backward, branch & bound). Sparse classifiers: Ridge, LASSO. Feature extraction: PCA, Fisher. Embeddings: MDS.  
 
-*Thursday* (October 8) -	*[Clustering and HMMs](Day4/Day4.pdf)*  
+*Thursday* (October 14) - *[Clustering and HMMs](Day4/Day4.pdf)*  
 *Lecturer* 	Perry Moerland  
 *Subjects* 	Hierarchical clustering. Agglomerative clustering. Model-based clustering: mixtures-of-Gaussians, Expectation-Maximization. Hidden Markov models.  
 
-*Friday*  (October 9) -	*[Selected advanced topics](Day5/Day5.pdf)*  
+*Friday*  (October 15) - *[Selected advanced topics](Day5/Day5.pdf)*  
 *Lecturer* 	Marcel Reinders  
 *Subjects* 	Artificial neural networks. Support vector machines. Classifier ensembles. Complexity and regularisation. Deep learning.  
 
