@@ -44,7 +44,8 @@ In this one-week course, the foundations of machine learning will be laid out an
 You can register for this course by filling out the BioSB [enrolment form](https://www.biosb.nl/machine-learning-for-bioinformatics-and-systems-biology-2021/). The maximum number of participants is 25, so register soon to be sure of a course seat! *Update: we reached the maximum number of participants for the 2021 edition. Registration is closed.* If you would like to be put on the reserve list, please send an email to [Femke Francissen](mailto:femke.francissen@biosb.nl). If you are interested in the 2022 edition of the course please fill out the [pre-registration form](https://www.biosb.nl/education/enrollment/pre-registration-courses/).
 
 The course fee includes all course material. Lecture slides, a computer lab manual and software required for the computer labs (MATLAB toolboxes) will be made available online.
-	* Catering: Coffee, tea, soft drinks and lunch will be provided.
+
+   * Catering: Coffee, tea, soft drinks and lunch will be provided.
 
  <!--- Information about hostel accommodation in Amsterdam can be found [[https://www.vu.nl/en/programmes/links/hotels.aspx][here]]. Accommodation is not included in the course fee.--->
 
