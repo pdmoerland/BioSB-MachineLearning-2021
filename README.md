@@ -2,7 +2,6 @@
 
 # Machine Learning for Bioinformatics & Systems Biology
 
-  * [Mails](#mails)
   * [Learning objectives](#learning-objectives)
   * [Target audience](#target-audience)
   * [Description](#description)
